@@ -9,6 +9,8 @@ YOLO Markets is where internet conviction becomes a tradable market.
 
 Users can go long or short on a topic and trade its narrative strength.
 
+The attention index currently uses X/Twitter and Google Trends, with more sources such as Reddit, Instagram, YouTube, and Facebook planned as coming soon.
+
 ## Beta Status
 
 YOLO Markets is currently in beta.

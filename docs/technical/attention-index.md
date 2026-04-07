@@ -17,6 +17,13 @@ The current index uses:
 
 X captures live discussion and engagement. Google Trends captures broader search interest. YOLO combines both into one market signal.
 
+Coming soon, YOLO plans to expand the index with more attention sources such as:
+
+- Reddit
+- Instagram
+- YouTube
+- Facebook
+
 ## How It Is Used
 
 At a system level, the attention index is the oracle price.
