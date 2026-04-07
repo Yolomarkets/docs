@@ -25,8 +25,6 @@ YOLO uses a hybrid CLOB model.
 
 The CLOB lives on the backend, not fully onchain. That is what lets the product have a fast order-book trading experience.
 
-At a high level:
-
 - users place orders through the app
 - the backend manages the order book and matches orders
 - matched trades are then settled into the onchain perp system
@@ -37,14 +35,12 @@ So the backend handles speed and matching, while the onchain contracts handle fi
 
 The attention index is the market reference price.
 
-It is built from attention data, currently using:
+It is built from attention data and pushed onchain as the market's oracle price.
 
-- X/Twitter
-- Google Trends
+See the dedicated pages for more detail:
 
-That signal is combined into an index and pushed onchain. In system terms, this is the oracle price for the market.
-
-That price is what gives each topic market a reference anchor instead of leaving it as a free-floating order book.
+- [Attention Index](attention-index.md)
+- [Perps Model](perps-model.md)
 
 ## The Whole System in One Line
 

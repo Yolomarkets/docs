@@ -29,4 +29,4 @@ Read this track for onboarding, trading, funding, market reading, and points.
 
 ### Technical Overview
 
-Read this track for a concise explanation of the onchain perps layer, the backend CLOB, and the attention index oracle.
+Read this track for a concise system overview, a deeper attention index page, and a separate perp model page covering orders, funding, oracle prices, and liquidations.

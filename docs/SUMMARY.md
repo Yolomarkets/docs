@@ -19,3 +19,5 @@
 ## Technical Overview
 
 - [How YOLO Works](technical/how-yolo-works.md)
+- [Attention Index](technical/attention-index.md)
+- [Perps Model](technical/perps-model.md)
