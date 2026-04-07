@@ -3,6 +3,7 @@
 ## 1. Sign In
 
 - connect or authenticate your wallet
+- wallets are created and managed through Privy for security
 - complete the beta access flow
 - enter the trading interface
 

@@ -16,6 +16,7 @@ The attention index currently uses X/Twitter and Google Trends, with more source
 YOLO Markets is currently in beta.
 
 - the onboarding experience is intentionally simplified
+- wallets are created through Privy for security
 - users are automatically funded with `yCash` collateral during beta
 - the points program and leaderboard are active product systems
 
