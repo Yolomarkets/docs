@@ -1,6 +1,6 @@
 # How Trading Works
 
-YOLO Markets gives users a familiar long/short trading interface, but the markets themselves are built around topics and narratives rather than traditional tickers.
+YOLO Markets uses familiar long/short mechanics, but the markets are built around topics rather than traditional tickers.
 
 ## Long and Short
 
@@ -13,16 +13,12 @@ The core action is straightforward:
 
 Trading happens through an order-book model.
 
-That means users place orders at chosen prices and sizes, and those orders either:
-
 - match against existing liquidity
 - rest on the book until another order crosses them
 
 ## Fills and Positions
 
 When orders match, they create fills and update positions.
-
-From the user's point of view, the important outputs are:
 
 - position size
 - entry exposure
@@ -38,9 +34,6 @@ Long positions benefit when the market moves in their favor. Short positions ben
 ## What Makes Trading Here Different
 
 The trading mechanics are familiar, but the underlying market behavior is different because the driver is narrative and attention.
-
-That means the product sits at the intersection of:
-
 - order-book trading
 - perp-style exposure
 - internet-native market behavior
