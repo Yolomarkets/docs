@@ -18,11 +18,4 @@
 
 ## Technical Overview
 
-- [System Architecture](technical/system-architecture.md)
-- [Market Lifecycle](technical/market-lifecycle.md)
-- [Attention Index Overview](technical/attention-index-overview.md)
-- [Pricing and Market Data](technical/pricing-and-market-data.md)
-- [Trading Engine Overview](technical/trading-engine-overview.md)
-- [Collateral and Beta Account Model](technical/collateral-and-beta-account-model.md)
-- [Points and Leaderboard Mechanics](technical/points-and-leaderboard-mechanics.md)
-- [Fees and Business Model](technical/fees-and-business-model.md)
+- [How YOLO Works](technical/how-yolo-works.md)

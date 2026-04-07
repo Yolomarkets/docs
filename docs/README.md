@@ -29,4 +29,4 @@ Read this track for onboarding, trading, funding, market reading, and points.
 
 ### Technical Overview
 
-Read this track for architecture, market creation, indexing, and trading flow.
+Read this track for a concise explanation of the onchain perps layer, the backend CLOB, and the attention index oracle.
