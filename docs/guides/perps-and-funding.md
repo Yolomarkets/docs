@@ -6,9 +6,7 @@ YOLO Markets uses perp-style mechanics because they are a strong fit for live, e
 
 A perp is a market that stays open continuously instead of expiring at a fixed date.
 
-That matters for attention-driven markets because narratives do not resolve neatly on a calendar. They build, fade, re-ignite, split, and evolve.
-
-Perps let users trade through that movement instead of waiting for one binary outcome.
+That matters for attention-driven markets because narratives do not resolve neatly on a calendar.
 
 ## Why Funding Exists
 
@@ -19,13 +17,9 @@ At a high level:
 - if the tradable market drifts away from its reference level
 - the funding mechanism helps create pressure for it to move back toward balance
 
-Users do not need the exact formula to understand the point: funding is there to reduce the gap between the market's tradable price and the market's underlying reference.
-
 ## How To Think About Funding on YOLO
 
 On YOLO, funding should be understood as a market-balancing tool.
-
-If the tradable market is running rich or weak relative to the index, funding helps push behavior back toward alignment over time.
 
 For traders, that means funding is not just background infrastructure. It affects holding cost and trade quality.
 
@@ -47,5 +41,3 @@ Think about:
 - entry
 - funding
 - how long you plan to hold
-
-That is the right mental model for perp trading in any market, and it matters even more in attention-driven markets where price and narrative can move quickly.

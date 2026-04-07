@@ -14,8 +14,6 @@ That topic might be:
 - a theme people are arguing about online
 - a topic with durable mindshare inside crypto or broader internet culture
 
-The core idea is that a market should exist wherever online conviction is strong enough to support price discovery.
-
 ## What "Attention-Driven Perps" Means
 
 In user terms, an attention-driven perp market is a continuous market built around a topic rather than a traditional ticker.
@@ -39,8 +37,6 @@ That can make them:
 - more socially driven
 - more sensitive to creators, communities, and discourse
 
-This is part of the point. YOLO is not trying to force internet-native markets into an old mold. It is building a trading surface that acknowledges how online attention actually moves.
-
 ## What Users Should Expect
 
 When a topic has a market on YOLO, users should expect:
@@ -49,5 +45,3 @@ When a topic has a market on YOLO, users should expect:
 - an index that anchors the market
 - a tradable long/short market with positions and PnL
 - activity that can respond quickly to shifts in attention
-
-In short: if a topic matters enough for the internet to care, YOLO wants it to be understandable, visible, and tradeable.

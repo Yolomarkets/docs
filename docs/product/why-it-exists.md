@@ -9,15 +9,11 @@ People form strong opinions about:
 - which cultural moments will persist
 - which internet-native themes will fade
 
-Those opinions matter. They shape brands, communities, creators, and capital allocation. But in most markets, that conviction has nowhere clean to go.
-
 ## The Gap
 
 Traditional financial markets are built for companies, commodities, rates, and established asset classes.
 
 Prediction markets are powerful for discrete questions, but they are not always the right tool for open-ended narrative trading. A topic can trend, cool off, re-accelerate, fragment, or evolve. That is often closer to a continuous market than a one-time yes/no resolution.
-
-YOLO Markets is built for that gap.
 
 ## The Product Thesis
 
@@ -39,14 +35,6 @@ Instead of waiting for one terminal outcome, users can:
 - go short if they think it is losing momentum
 - manage a position as the narrative changes
 
-That creates a more natural product for internet-native markets.
-
 ## What YOLO Is Trying To Build
 
-YOLO Markets is trying to become the place where online conviction becomes executable.
-
-Not just news trading.
-Not just event betting.
-Not just memecoins.
-
-A market layer for narratives, topics, attention, and internet culture.
+YOLO Markets is trying to become a market layer for narratives, topics, attention, and internet culture.

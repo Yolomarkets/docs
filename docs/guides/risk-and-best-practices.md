@@ -11,8 +11,6 @@ These are attention-driven perp markets. That combines:
 - market-liquidity risk
 - narrative volatility
 
-Even when the interface feels familiar, the underlying market behavior can change quickly.
-
 ## Best Practices for New Users
 
 Start with:
@@ -21,8 +19,6 @@ Start with:
 - topics you actually understand
 - short feedback loops
 - clear exit ideas
-
-A user who understands the topic but sizes recklessly is still exposed. A user who sizes correctly but does not understand the topic is also exposed.
 
 ## Respect Funding
 
@@ -53,5 +49,3 @@ Do not assume:
 - beta convenience means low risk
 - points justify poor entries
 - strong conviction removes the need for risk management
-
-The best users will treat the product as a serious trading system, even while it is still in beta.
